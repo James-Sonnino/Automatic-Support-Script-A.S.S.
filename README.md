@@ -1,1 +1,1 @@
-# Automatic-Support-Script-ASS-
+# Automatic-Support-Script-ASS
