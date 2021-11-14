@@ -10,6 +10,7 @@ System check:
   - Pods that are currently down 
   - Product version
   - Nvidia-smi output
+
 Logs:
   - syslog
   - logs and describe output of failed pods
